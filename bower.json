@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  "description": "My btrn weather project",
+  "main": "index.js",
+  "authors": [
+    "Ilya Batarin"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reset-css": "^2.2.0"
+  },
+  "devDependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
